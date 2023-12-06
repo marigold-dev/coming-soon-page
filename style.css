@@ -158,22 +158,22 @@ html {
 
 /* HEADER */
 
-.app-maintenance {
+.app-comingsoon {
   text-align: center;
   padding-top: 140px;
 }
 
-.app-maintenance h1:first-of-type {
+.app-comingsoon h1:first-of-type {
   padding-bottom: 0;
 }
 
-.app-maintenance h1:nth-of-type(2) {
+.app-comingsoon h1:nth-of-type(2) {
   margin-top: 20px;
   color: #eb3448;
 }
 
 @media screen and (max-width: 900px) {
-  .app-maintenance h1:first-of-type {
+  .app-comingsoon h1:first-of-type {
     padding-bottom: 12px;
   }
 }
@@ -332,7 +332,7 @@ html {
   }
 }
 
-.app-maintenance h1 {
+.app-comingsoon h1 {
   font-family: "Inter";
   font-style: black;
   margin: 0px;
@@ -340,7 +340,7 @@ html {
   font-size: 80px;
 }
 
-.app-maintenance p:first-of-type {
+.app-comingsoon p:first-of-type {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
@@ -348,7 +348,7 @@ html {
   line-height: 150%;
 }
 
-.app-maintenance p:nth-of-type(2) {
+.app-comingsoon p:nth-of-type(2) {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
@@ -381,14 +381,14 @@ html {
 }
 
 @media screen and (max-width: 900px) {
-  .app-maintenance h1 {
+  .app-comingsoon h1 {
     font-family: "Inter";
     font-style: black;
     font-weight: 900;
     font-size: 40px;
   }
 
-  .app-maintenance h1:nth-of-type(2) {
+  .app-comingsoon h1:nth-of-type(2) {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -397,14 +397,14 @@ html {
     text-align: center;
   }
 
-  .app-maintenance p:first-of-type {
+  .app-comingsoon p:first-of-type {
     width: 75%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
   }
 
-  .app-maintenance p:nth-of-type(2) {
+  .app-comingsoon p:nth-of-type(2) {
     width: 75%;
   }
 }
